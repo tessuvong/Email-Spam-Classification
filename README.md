@@ -10,4 +10,4 @@ Process of Building:
 7. K-Fold Cross Validation
 8. Logistic Regression Model
 9. Evaluation of Accuracy 
-10.Test Predictions
+10. Test Predictions
