@@ -3,11 +3,11 @@ The email classifier distinguishes spam and non-spam emails.
 
 Process of Building: 
 1. Data Cleaning
-3. Training/Test Split
-4. Feature Engineering
-5. Exploratory Data Analysis
-6. Feature Selection
-7. K-Fold Cross Validation
-8. Logistic Regression Model
-9. Evaluation of Accuracy 
-10. Test Predictions
+2. Training/Test Split
+3. Feature Engineering
+4. Exploratory Data Analysis
+5. Feature Selection
+6. K-Fold Cross Validation
+7. Logistic Regression Model
+8. Evaluation of Accuracy 
+9. Test Predictions
